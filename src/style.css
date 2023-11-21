@@ -1,0 +1,36 @@
+.map {
+  display: flex;
+  margin: auto;
+  width: 80%;
+}
+.map h3 {
+  text-align: left;
+  width: 25%;
+}
+.map p {
+  line-height: 45px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  font-size: 2em;
+}
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+.info {
+  text-align: center;
+}
+.info p {
+  background-color: lightblue;
+  border-radius: 5px;
+  margin: auto;
+  width: 80%;
+}
+img {
+  height: 200px;
+}
